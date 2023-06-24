@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Lourdes</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+
 
 <br>
 

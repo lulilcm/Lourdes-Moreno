@@ -6,7 +6,6 @@
 <h1 align="center">Hola 👋,soy Lourdes</h1>
 <h3 align="center">Full Stack devoloper</h3>
 
-- 🔭 Actualmente trabajando en [Rick and Morty](https://github.com/lulilcm/Rick-and-Morty-app)
 
 - 🌱 Estoy aprendiendo la ORM **Prisma**
 
